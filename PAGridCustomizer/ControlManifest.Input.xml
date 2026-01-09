@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="Carfup" constructor="PCFControlsGrid" version="0.0.1" display-name-key="Carfup.PCFControls_Grid" description-key="PCFControls_Grid includes several control which can be used within the PowerApps Grid" control-type="virtual" >
+    <property name="EventName" display-name-key="EventName" description-key="EventName" of-type="SingleLine.Text" usage="bound" required="true" />
+    <property name="ConfigurationProperty"
+      display-name-key="Configuration"
+      description-key="Define which components should be used in the grid"
+      of-type="SingleLine.Text"
+      usage="input"
+      required="true" />
+    <resources>
+      <code path="index.ts" order="1"/>
+      <platform-library name="React" version="16.8.6" />
+      <platform-library name="Fluent" version="9.4.0" />
+    </resources>
+  </control>
+</manifest>

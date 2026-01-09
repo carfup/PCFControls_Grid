@@ -1,0 +1,2 @@
+C:\Projets\CRM\PCF\PCFControls_Grid\PCFControls_Grid\obj\Debug\PowerAppsGridCustomizerControl.pcfproj.AssemblyReference.cache
+C:\Projets\CRM\PCF\PCFControls_Grid\PCFControls_Grid\obj\Debug\PowerAppsGridCustomizerControl.pcfproj.CoreCompileInputs.cache
